@@ -11,4 +11,3 @@ An interactive, high-density flow field built with p5.js.
 <p align="center">
   👉 <strong><a href="https://ravennnnn6.github.io/Generative-Art/">Click here to play with the live interactive version!</a></strong>
 </p>
-Verification: Anyon
